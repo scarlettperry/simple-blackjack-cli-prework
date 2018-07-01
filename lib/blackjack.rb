@@ -43,7 +43,6 @@ def hit? (total)
     prompt_user
     total
   end
-  total
 end
 
 def invalid_command
